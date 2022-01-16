@@ -1,0 +1,7 @@
+__pycache__
+venv
+*.caffemodel
+out.png
+test_output.png
+.ipynb_checkpoints
+*Copy*.ipynb
